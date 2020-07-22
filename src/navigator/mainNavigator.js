@@ -11,7 +11,6 @@ import BlankScreen29216Navigator from '../features/BlankScreen29216/navigator';
 import EmailAuth39215Navigator from '../features/EmailAuth39215/navigator';
 import BlankScreen29213Navigator from '../features/BlankScreen29213/navigator';
 import EmailAuth39212Navigator from '../features/EmailAuth39212/navigator';
-import BlankScreen29210Navigator from '../features/BlankScreen29210/navigator';
 import EmailAuth39209Navigator from '../features/EmailAuth39209/navigator';
 
 /**
@@ -27,7 +26,6 @@ BlankScreen29216: { screen: BlankScreen29216Navigator },
 EmailAuth39215: { screen: EmailAuth39215Navigator },
 BlankScreen29213: { screen: BlankScreen29213Navigator },
 EmailAuth39212: { screen: EmailAuth39212Navigator },
-BlankScreen29210: { screen: BlankScreen29210Navigator },
 EmailAuth39209: { screen: EmailAuth39209Navigator },
 
     /** new navigators can be added here */
